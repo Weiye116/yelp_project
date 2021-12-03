@@ -21,5 +21,5 @@ Note that the output of the code written is provided as a means to give you stru
 
 ## Cluster and Notebook Configs
 
-![notebook](assets/notbook_configuration.png)
-![cluster](assets/cluster_configuration.png)
+![notebook](https://github.com/Weiye116/yelp_project/blob/main/assets/cluster_configuration.png)
+![cluster](https://github.com/Weiye116/yelp_project/blob/main/assets/notbook_configuration.png)
