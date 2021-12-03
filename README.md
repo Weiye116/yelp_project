@@ -3,6 +3,8 @@
 We will analyze a subset of Yelp's business, reviews and user data. This dataset comes to us from [Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset) although we have taken steps to pull this data into a publis s3 bucket: `s3://sta9760-yelpdataset/yelp-light/*business.json`
 
 ## [Analysis](https://github.com/Weiye116/yelp_project/blob/main/Analysis.ipynb)
+The link above is the actual code of this project, and the screenshots are the configs of notebook and cluster
+
 After initial setup and importing, I loaded business dataset first. Creating tables with different columns to see the content of the data.
 The next step is creating categories table and convert it to Panda dataframe for in order to plot barchart as showed in Analysis.
 
